@@ -4,9 +4,9 @@ import java.util.Scanner;
 /**
  * day1
  */
-public class day1_pt1 {
+public class day1 {
 	public static void main(String args[]) throws Exception {
-		File file = new File("inputs\\day1.txt");
+		File file = new File("inputs/day1.txt");
 		Scanner sc = new Scanner(file);
 
 		int total = 0;
